@@ -92,6 +92,8 @@ main strong {
             }
 
 nav {
+    min-width: 150px;
+    max-width: 1000px;
     margin: auto;
     margin-bottom: 10px;
     background-color: #1c8003;
